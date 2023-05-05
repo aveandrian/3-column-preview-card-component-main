@@ -17,6 +17,6 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshot  
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/13519212/236542702-2ee0a996-6d87-4edf-9e59-48dc6563583a.png)
